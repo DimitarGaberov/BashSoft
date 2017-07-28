@@ -1,0 +1,6 @@
+C:\Users\dimit\Documents\Visual Studio 2017\Projects\BashSoft\bin\Debug\BashSoft.exe.config
+C:\Users\dimit\Documents\Visual Studio 2017\Projects\BashSoft\bin\Debug\BashSoft.exe
+C:\Users\dimit\Documents\Visual Studio 2017\Projects\BashSoft\bin\Debug\BashSoft.pdb
+C:\Users\dimit\Documents\Visual Studio 2017\Projects\BashSoft\obj\Debug\BashSoft.csprojResolveAssemblyReference.cache
+C:\Users\dimit\Documents\Visual Studio 2017\Projects\BashSoft\obj\Debug\BashSoft.exe
+C:\Users\dimit\Documents\Visual Studio 2017\Projects\BashSoft\obj\Debug\BashSoft.pdb
